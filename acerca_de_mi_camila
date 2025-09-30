@@ -1,0 +1,41 @@
+<!DOCTYPE html> <!--Indica que el documento esta escrito en html 5-->
+<html lang="es"> <!-- Define el idioma principal de la pagina como español -->
+<head> <!--Contiene metadatos e informacion de la pagina -->
+<meta charset="UTF-8"> <!--Codificacion de caracteres (UTF-8 admite acentos y simbolos especiales) -->
+<style type="text/css">
+img {
+border-radius: 12px;
+border-color: pink;
+border-style: solid;
+border-width: 9px;
+box_shadow: 5px 6px 7 px grey;
+}
+</style>
+<style>
+   h1 {
+        color: blue;
+      }
+   </style>
+</head>
+<body> <!-- Contenido visible de la pagina -->
+
+
+    <main> <!-- Contenido principal de la pagina --> 
+       <h1> Acerca de mi, datos curiosos y más :)</h2> <!-- Subtitulo de segundo nivel-->
+       <h2> -¿Qué cosas me gustan? 
+       <h3> -Me gusta el color rojo
+       <h3> -Mis animales favoritos son los gatos
+       <h3> -Me gusta mucho dormir y comer 
+       <h3> -Mi comida favorita son los macarrones con queso 
+       <h3> -Me encanta maquillarme 
+       <h3> -Me gusta ser sociable y hacer muchos amigos   
+
+       <h2> Datos curiosos sobre mi: 
+       <h3> -Nací en estados unidos 
+       <h3> -Tengo una mancha de nacimiento en el estomago 
+       <h3> -Tengo un lunar en la punta de la nariz
+       <h3> -Mi gatito de mascota se llama Missael
+       <h3> -Tengo solo 1 hermana y yo soy la menor 
+       <h3> -Me gustan mucho los videojuegos como fortnite o minecratf
+
+     <img src= "WIN_20250530_09_53_43_Pro.jpg" width="300" height="300" alt= "esta soy yo" tittle= "yo"> 
